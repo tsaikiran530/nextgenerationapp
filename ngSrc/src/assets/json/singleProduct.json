@@ -1,0 +1,33 @@
+{
+    "travproduct": [
+        {	
+			"id":0,
+            "name":"sportline-duo-1010-woman",
+			"pname":"sportline",
+			"img":"./assets/images/sportline-duo-1010-woman.jpg",
+			"price":"3984.95"
+        },
+       
+        {
+			"id":1,
+            "name": "Cmp Kinos Snow Boots Waterproof",
+			"pname":"Cmp Kinos Snow Boots Waterproof",
+			"img":"./assets/images/cmp-kinos-snow-boots-waterproof.jpg",
+			"price":"4177.95"
+        },
+        {
+			"id":2,
+            "name": "columbia-bangor-boot-omni-heat",
+			"pname":"bangorbootomniheat",
+			"img":"./assets/images/columbia-bangor-boot-omni-heat.jpg",
+			"price":"7147.95"
+        },
+		{
+			"id":3,
+            "name": "Ferrino X Cross 12 Large",
+			"pname":"Ferrino X Cross 12 Large",
+			"img":"./assets/images/ferrino-x-cross-12-large.jpg",
+			"price":"4424.95"
+        }
+    ]
+}

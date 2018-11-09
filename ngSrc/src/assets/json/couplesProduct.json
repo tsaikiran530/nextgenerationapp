@@ -1,0 +1,17 @@
+{
+    "travproduct": [
+       {
+			"id":0,
+            "name": "Himalaya Purifying Neem Face Wash 100ml+Sparkling White Toothpaste 40g Free",
+			"img":"./assets/images/f6.png",
+			"price":"120"
+        },
+        {
+            "id":1,
+			"name": "Dettol shaving cream cool 60 g + 18 g (free) pack of 1",
+			"img":"./assets/images/f7.png",
+			"price":"10"
+        }
+       
+    ]
+}

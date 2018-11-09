@@ -1,0 +1,24 @@
+{
+    "travproduct": [
+        {
+			"id":0,
+            "name":"Johnson & Johnson Baby Powder ",
+			"img":"./assets/images/f1.png",
+			"price":"60"
+        },
+     
+        
+        {
+            "id":1,
+			"name": "SimMom Chocolate - 400 g (Refill pack)",
+			"img":"./assets/images/f4.png",
+			"price":"300"
+        },
+		{
+            "id":2,
+			"name": "MAMY POKO PANT DIAPER M 56'S 1 PC",
+			"img":"./assets/images/f5.png",
+			"price":"299"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+  body{
+    background:#fff;
+	color:#ccc;
+   }
+  .badge-notify{
+    background:red;
+    position:relative;
+    top: -20px;
+    right: 10px;
+  }
+  .my-cart-icon-affix {
+    position: relative;
+    z-index: 999;
+  }
+  .well{
+   color:#000;
+   font-size:18px;
+   background-color: #ccc;
+   
+  }
+  .well.textVal{ border:none; background-color:#fff;}
+  #LoadingImage img{
+   position: absolute;
+    margin: auto;
+    left: 0; 
+    right: 0;
+    top: 65%;
+    bottom: 0;  
+	}
+	.form-control{
+	font-size:18px;
+	}
+	.product-card {
+    display: block;
+    position: relative;
+    width: 100%;
+    padding: 18px;
+    border: 1px solid #e1e7ec;
+    border-radius: 7px;
+    background-color: #fff;
+	}
+	.product-card .product-badge {
+    top: 15px;
+    left: 18px;
+}
+.product-badge {
+    position: absolute;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: .07em;
+    text-transform: uppercase;
+}
+.text-danger {
+    color: #ff5252 !important;
+}
+product-card .product-thumb {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.product-card .product-title {
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+}
+.btn{
+    color: #fff;
+    background-color: #ac2925;
+    border-color: #761c19;
+}
+.product-card .product-price {
+    margin-bottom: 10px;
+    color: #606975;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+}
+.product-card .product-buttons {
+    padding: 12px 0 8px;
+    text-align: center;
+}
+product-card .product-buttons>.btn.btn-wishlist.active {
+    color: #ff5252;
+}
+.product-card .product-buttons>.btn.btn-wishlist {
+    width: 36px;
+    padding: 0;
+    padding-left: 1px;
+    border-radius: 50%;
+}
+.product-card .product-buttons>.btn {
+    margin: 0 4px;
+}
+
+.btn-outline-secondary {
+    border-color: #e1e7ec;
+}
+.btn-sm {
+    height: 36px;
+    padding: 0 18px;
+    border-radius: 18px;
+    font-size: 12px;
+    line-height: 34px;
+}
+.btn {
+    display: inline-block;
+    position: relative;
+    height: 44px;
+   
+}
+.btn-outline-primary {
+    border-color: #0da9ef;
+    background-color: transparent;
+    color: #0da9ef;
+	
+}
+.btn-sm {
+    height: 36px;
+    padding: 0 18px;
+    border-radius: 18px;
+    font-size: 12px;
+    line-height: 34px;
+}
+.btn-primary {
+    background-color: #0da9ef;
+	border-radius:25px;
+	color:#fff;
+	border:none;
+}
+table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    padding: 7px 5px 7px 7px;
+	}
+	.w-200 {
+    width: 200px !important;
+}
+.mb-4, .my-4 {
+    margin-bottom: 1.5rem !important;
+}
+.d-inline-block {
+    display: inline-block !important;
+}
